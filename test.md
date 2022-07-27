@@ -31,7 +31,7 @@
     - 답 : 브렌치를 통해 별도의 작업 공간을 만들어 고객들이 사용있는 중에도 함부 버전을 되돌리거나 삭제할 수 있고 그 내용을 후에 master 반영할 수 있게 한다.치
 
 7. branch를 생성하는 동시에 이동하는 명령어는 무엇인가요?
-    - 답 : 
+    - 답 : git branch -c branch.name
 
 8. 다음과 같은 상황이 나타났을 때 어떻게 해야 하나요?
    ![image](https://user-images.githubusercontent.com/98133984/181183354-df42d325-b839-48e1-a4c6-667c20b33d5c.png)
